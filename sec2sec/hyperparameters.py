@@ -1,0 +1,10 @@
+dropout = 0.5
+enc_hidden_size = 256
+dec_hidden_size = 512
+latent_vector_length = 128
+lr = 0.001
+mfcc_path = "../preprocessed_data/mfcc.pkl"
+chroma_path = "../preprocessed_data/chroma.pkl"
+model_dir = "../saved_models"
+num_epoch = 6000
+batch_size = 50
