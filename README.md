@@ -28,4 +28,6 @@ We used Free Music Archive (FMA) as our dataset. Related data and code can be fo
 2. Decoder is a unidirectional LSTM and a shared fully connect layer.
 3. Train the encoder and decoder from end to end, where the encoder is encoding a segment of audio represented by a sequence of chroma feature vectors into a encoding vector, and the decoder is decoding the encoding vector into its original sequence chroma feature vectors. Use the reconstruction loss to optimize the entire model
 
-
+## Paper
+Algorithm details and experiment results see this paper:
+https://1drv.ms/b/s!AkpHFm7pqfBnhbJyUiDSL9qEqJV9Tw
