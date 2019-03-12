@@ -1,6 +1,6 @@
 # Audio2Vec: An exploration of embedding methods to represent an arbitrary segment of audio in a fixed length vector
 
-## Anstract
+## Abstract
 Recent years, with the popularity of large digital music
 libraries, the ability to retrieve similar or even
 duplicate songs has become more important.
